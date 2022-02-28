@@ -1,0 +1,1050 @@
+----------------------------
+2020-11-20 11:41:30.963184
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[11-41-30-963184]  1: fist - if nr 1 passed
+[11-41-30-971224]  2: fist - if nr 2 passed
+[11-41-30-971224]  3: fist - if nr 3 passed
+[11-41-30-971224]  4: fist - if nr 4 passed
+[11-41-30-973303]  5: empty - if nr 1 passed
+[11-41-30-973303]  6: empty - if nr 2 passed
+[11-41-30-973303]  7: empty - if nr 3 passed
+[11-41-30-973303]  8: empty - if nr 4 passed
+[11-41-30-973303]  9: empty = if nr 5 passed
+[11-41-30-973303]  10: Empty
+----------------------------
+2020-11-20 11:42:22.385599
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[11-42-22-385599]  1: empty - if nr 1 passed
+[11-42-22-395658]  2: empty - if nr 2 passed
+[11-42-22-395658]  3: empty - if nr 3 passed
+[11-42-22-395658]  4: empty - if nr 4 passed
+[11-42-24-600528]  5: empty - if nr 1 passed
+[11-42-24-600528]  6: empty - if nr 2 passed
+[11-42-24-600528]  7: empty - if nr 3 passed
+[11-42-24-600528]  8: empty - if nr 4 passed
+[11-42-24-600528]  9: empty = if nr 5 passed
+[11-42-24-600528]  10: Empty
+[11-42-24-600528]  11: fist - if nr 1 passed
+[11-42-24-600528]  12: fist - if nr 2 passed
+[11-42-31-744772]  13: secret_gesture - if nr 1 passed
+[11-42-31-744772]  14: peace - if nr 1 passed
+[11-42-31-744772]  15: peace - if nr 2 passed
+[11-42-31-744772]  16: peace - if nr 3 passed
+[11-42-31-744772]  17: peace - if nr 4 passed
+[11-42-31-744772]  18: peace - if nr 5 passed
+[11-42-31-744772]  19: peace - if nr 6 passed
+[11-42-31-744772]  20: Peace
+[11-42-34-368740]  21: empty - if nr 1 passed
+[11-42-34-368740]  22: empty - if nr 2 passed
+[11-42-34-368740]  23: empty - if nr 3 passed
+[11-42-34-368740]  24: empty - if nr 4 passed
+[11-42-34-368740]  25: empty = if nr 5 passed
+[11-42-34-368740]  26: Empty
+[11-42-40-149326]  27: okay - if nr 1 passed
+[11-42-40-149326]  28: okay - if nr 2 passed
+[11-42-40-149326]  29: okay - if nr 3 passed
+[11-42-40-149326]  30: okay - if nr 4 passed
+[11-42-40-149326]  31: okay - if nr 5 passed
+[11-42-40-149326]  32: okay - if nr 6 passed
+[11-42-40-149326]  33: Okay
+[11-42-40-149326]  34: fist - if nr 1 passed
+[11-42-40-149326]  35: fist - if nr 2 passed
+[11-42-43-381591]  36: empty - if nr 1 passed
+[11-42-43-381591]  37: empty - if nr 2 passed
+[11-42-43-381591]  38: empty - if nr 3 passed
+[11-42-43-381591]  39: empty - if nr 4 passed
+[11-42-43-381591]  40: empty = if nr 5 passed
+[11-42-43-381591]  41: Empty
+[11-42-49-99087]  42: fist - if nr 1 passed
+[11-42-50-998604]  43: swipe right - if nr 1 passed
+[11-42-50-998604]  44: swipe right - if nr 2 passed
+[11-42-50-998604]  45: swipe right - if nr 3 passed
+[11-42-50-998604]  46: swipe right - if nr 4 passed
+[11-42-51-638247]  47: swipe right - if nr 1 passed
+[11-42-51-638247]  48: swipe right - if nr 2 passed
+[11-42-51-638247]  49: swipe right - if nr 3 passed
+[11-42-51-638247]  50: swipe right - if nr 4 passed
+[11-42-51-638247]  51: swipe right - if nr 5 passed
+[11-42-51-638247]  52: swipe right - if nr 6 passed
+[11-42-51-638247]  53: Swipe right
+[11-42-51-638247]  54: secret_gesture - if nr 1 passed
+[11-42-51-638247]  55: secret_gesture - if nr 2 passed
+[11-42-51-638247]  56: secret_gesture - if nr 3 passed
+[11-42-51-638247]  57: secret_gesture - if nr 4 passed
+[11-42-51-638247]  58: Secret_gesture - if nr 5 passed
+[11-42-51-638247]  59: Secret_gesture
+[11-42-51-638247]  60: peace - if nr 1 passed
+[11-42-51-638247]  61: empty - if nr 1 passed
+[11-42-52-302653]  62: empty - if nr 1 passed
+[11-42-52-942277]  63: empty - if nr 1 passed
+[11-42-53-613138]  64: empty - if nr 1 passed
+[11-42-54-261871]  65: empty - if nr 1 passed
+[11-42-54-894925]  66: empty - if nr 1 passed
+[11-42-55-534545]  67: empty - if nr 1 passed
+[11-42-56-167702]  68: empty - if nr 1 passed
+[11-42-57-440517]  69: peace - if nr 1 passed
+[11-42-58-89251]  70: peace - if nr 1 passed
+[11-42-58-728784]  71: peace - if nr 1 passed
+[11-43-0-650375]  72: fist - if nr 1 passed
+[11-43-0-650375]  73: fist - if nr 2 passed
+[11-43-0-650375]  74: fist - if nr 3 passed
+[11-43-0-650375]  75: fist - if nr 4 passed
+[11-43-0-650375]  76: fist - if nr 5 passed
+[11-43-0-650375]  77: fist - if nr 6 passed
+[11-43-1-299184]  78: fist - if nr 1 passed
+[11-43-1-299184]  79: fist - if nr 2 passed
+[11-43-1-299184]  80: fist - if nr 3 passed
+[11-43-1-299184]  81: fist - if nr 4 passed
+[11-43-1-299184]  82: fist - if nr 5 passed
+[11-43-1-299184]  83: fist - if nr 6 passed
+[11-43-1-969277]  84: empty - if nr 1 passed
+[11-43-2-618178]  85: empty - if nr 1 passed
+[11-43-3-273336]  86: peace - if nr 1 passed
+[11-43-3-273336]  87: empty - if nr 1 passed
+[11-43-3-922205]  88: peace - if nr 1 passed
+[11-43-3-922205]  89: empty - if nr 1 passed
+[11-43-3-922205]  90: empty - if nr 2 passed
+[11-43-3-922205]  91: empty - if nr 3 passed
+[11-43-3-922205]  92: empty - if nr 4 passed
+[11-43-4-561971]  93: peace - if nr 1 passed
+[11-43-6-668520]  94: fist - if nr 1 passed
+[11-43-6-668520]  95: fist - if nr 2 passed
+[11-43-6-668520]  96: peace - if nr 1 passed
+[11-43-7-317310]  97: fist - if nr 1 passed
+[11-43-7-317310]  98: fist - if nr 2 passed
+[11-43-7-317310]  99: fist - if nr 3 passed
+[11-43-7-317310]  100: fist - if nr 4 passed
+[11-43-7-956962]  101: empty - if nr 1 passed
+[11-43-7-956962]  102: empty - if nr 2 passed
+[11-43-7-956962]  103: empty - if nr 3 passed
+[11-43-7-956962]  104: empty - if nr 4 passed
+[11-43-8-605717]  105: empty - if nr 1 passed
+[11-43-8-605717]  106: empty - if nr 2 passed
+[11-43-8-605717]  107: empty - if nr 3 passed
+[11-43-8-605717]  108: empty - if nr 4 passed
+[11-43-9-254473]  109: fist - if nr 1 passed
+[11-43-9-254473]  110: fist - if nr 2 passed
+[11-43-9-254473]  111: fist - if nr 3 passed
+[11-43-9-254473]  112: fist - if nr 4 passed
+[11-43-9-254473]  113: empty - if nr 1 passed
+[11-43-9-254473]  114: empty - if nr 2 passed
+[11-43-9-254473]  115: empty - if nr 3 passed
+[11-43-9-254473]  116: empty - if nr 4 passed
+[11-43-9-894280]  117: fist - if nr 1 passed
+[11-43-9-894280]  118: fist - if nr 2 passed
+[11-43-9-894280]  119: fist - if nr 3 passed
+[11-43-9-894280]  120: fist - if nr 4 passed
+[11-43-9-894280]  121: empty - if nr 1 passed
+[11-43-9-894280]  122: empty - if nr 2 passed
+[11-43-9-894280]  123: empty - if nr 3 passed
+[11-43-9-894280]  124: empty - if nr 4 passed
+[11-43-10-542949]  125: fist - if nr 1 passed
+[11-43-10-542949]  126: fist - if nr 2 passed
+[11-43-10-542949]  127: fist - if nr 3 passed
+[11-43-10-542949]  128: fist - if nr 4 passed
+[11-43-10-558608]  129: empty - if nr 1 passed
+[11-43-10-558608]  130: empty - if nr 2 passed
+[11-43-10-558608]  131: empty - if nr 3 passed
+[11-43-10-558608]  132: empty - if nr 4 passed
+[11-43-11-214024]  133: fist - if nr 1 passed
+[11-43-11-214024]  134: fist - if nr 2 passed
+[11-43-11-214024]  135: fist - if nr 3 passed
+[11-43-11-214024]  136: fist - if nr 4 passed
+[11-43-11-214024]  137: empty - if nr 1 passed
+[11-43-11-214024]  138: empty - if nr 2 passed
+[11-43-11-214024]  139: empty - if nr 3 passed
+[11-43-11-214024]  140: empty - if nr 4 passed
+[11-43-11-869396]  141: fist - if nr 1 passed
+[11-43-11-869396]  142: fist - if nr 2 passed
+[11-43-11-885027]  143: fist - if nr 3 passed
+[11-43-11-885027]  144: fist - if nr 4 passed
+[11-43-11-885027]  145: empty - if nr 1 passed
+[11-43-11-885027]  146: empty - if nr 2 passed
+[11-43-11-885027]  147: empty - if nr 3 passed
+[11-43-11-885027]  148: empty - if nr 4 passed
+[11-43-12-533823]  149: fist - if nr 1 passed
+[11-43-12-533823]  150: fist - if nr 2 passed
+[11-43-12-533823]  151: fist - if nr 3 passed
+[11-43-12-533823]  152: fist - if nr 4 passed
+[11-43-12-533823]  153: empty - if nr 1 passed
+[11-43-12-533823]  154: empty - if nr 2 passed
+[11-43-12-533823]  155: empty - if nr 3 passed
+[11-43-12-533823]  156: empty - if nr 4 passed
+[11-43-13-204865]  157: fist - if nr 1 passed
+[11-43-13-204865]  158: fist - if nr 2 passed
+[11-43-13-204865]  159: fist - if nr 3 passed
+[11-43-13-204865]  160: fist - if nr 4 passed
+[11-43-13-204865]  161: empty - if nr 1 passed
+[11-43-13-204865]  162: empty - if nr 2 passed
+[11-43-13-204865]  163: empty - if nr 3 passed
+[11-43-13-204865]  164: empty - if nr 4 passed
+[11-43-14-709646]  165: fist - if nr 1 passed
+[11-43-14-709646]  166: fist - if nr 2 passed
+[11-43-14-709646]  167: fist - if nr 3 passed
+[11-43-14-709646]  168: fist - if nr 4 passed
+[11-43-14-709646]  169: fist - if nr 5 passed
+[11-43-14-709646]  170: fist - if nr 6 passed
+[11-43-14-709646]  171: Fist
+[11-43-23-436374]  172: empty - if nr 1 passed
+[11-43-23-436374]  173: empty - if nr 2 passed
+[11-43-24-301362]  174: secret_gesture - if nr 1 passed
+[11-43-24-301362]  175: peace - if nr 1 passed
+[11-43-24-301362]  176: peace - if nr 2 passed
+[11-43-24-301362]  177: empty - if nr 1 passed
+[11-43-24-301362]  178: empty - if nr 2 passed
+[11-43-24-940975]  179: secret_gesture - if nr 1 passed
+[11-43-24-940975]  180: peace - if nr 1 passed
+[11-43-24-940975]  181: peace - if nr 2 passed
+[11-43-29-185910]  182: secret_gesture - if nr 1 passed
+[11-43-29-185910]  183: peace - if nr 1 passed
+[11-43-29-185910]  184: peace - if nr 2 passed
+[11-43-29-185910]  185: empty - if nr 1 passed
+[11-43-31-361583]  186: secret_gesture - if nr 1 passed
+[11-43-31-361583]  187: peace - if nr 1 passed
+[11-43-31-377172]  188: peace - if nr 2 passed
+[11-43-40-690961]  189: empty - if nr 1 passed
+[11-43-40-690961]  190: empty - if nr 2 passed
+[11-43-41-292924]  191: secret_gesture - if nr 1 passed
+[11-43-41-292924]  192: peace - if nr 1 passed
+[11-43-41-292924]  193: peace - if nr 2 passed
+[11-43-43-261311]  194: secret_gesture - if nr 1 passed
+[11-43-43-261311]  195: peace - if nr 1 passed
+[11-43-43-261311]  196: peace - if nr 2 passed
+[11-43-43-261311]  197: empty - if nr 1 passed
+[11-43-43-261311]  198: empty - if nr 2 passed
+[11-43-45-675452]  199: secret_gesture - if nr 1 passed
+[11-43-45-675452]  200: peace - if nr 1 passed
+[11-43-45-675452]  201: peace - if nr 2 passed
+[11-43-45-675452]  202: empty - if nr 1 passed
+----------------------------
+2020-11-20 11:46:04.072734
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[11-46-4-72734]  1: empty - if nr 1 passed
+[11-46-4-72734]  2: empty - if nr 2 passed
+[11-46-4-72734]  3: empty - if nr 3 passed
+[11-46-4-72734]  4: empty - if nr 4 passed
+[11-46-4-72734]  5: empty = if nr 5 passed
+[11-46-4-72734]  6: Empty
+[11-46-4-72734]  7: fist - if nr 1 passed
+[11-46-4-72734]  8: fist - if nr 2 passed
+[11-46-12-653533]  9: swipe left - if nr 1 passed
+[11-46-12-653533]  10: swipe left - if nr 2 passed
+[11-46-12-653533]  11: swipe left - if nr 3 passed
+[11-46-12-653533]  12: swipe left - if nr 4 passed
+[11-46-12-653533]  13: swipe left - if nr 5 passed
+[11-46-12-653533]  14: swipe left - if nr 6 passed
+[11-46-12-653533]  15: Swipe left
+[11-46-12-653533]  16: empty - if nr 1 passed
+[11-46-12-653533]  17: empty - if nr 2 passed
+[11-46-12-653533]  18: empty - if nr 3 passed
+[11-46-12-653533]  19: empty - if nr 4 passed
+[11-46-12-653533]  20: fist - if nr 1 passed
+[11-46-12-653533]  21: fist - if nr 2 passed
+[11-46-12-653533]  22: fist - if nr 3 passed
+[11-46-12-653533]  23: fist - if nr 4 passed
+[11-46-12-653533]  24: empty - if nr 1 passed
+[11-46-12-653533]  25: empty - if nr 2 passed
+[11-46-12-653533]  26: empty - if nr 3 passed
+[11-46-12-653533]  27: empty - if nr 4 passed
+[11-46-13-540692]  28: empty - if nr 1 passed
+[11-46-14-437270]  29: empty - if nr 1 passed
+[11-46-15-293243]  30: empty - if nr 1 passed
+[11-46-16-164670]  31: empty - if nr 1 passed
+[11-46-17-13975]  32: empty - if nr 1 passed
+[11-46-17-13975]  33: empty - if nr 1 passed
+[11-46-17-854417]  34: empty - if nr 1 passed
+[11-46-19-807402]  35: empty - if nr 1 passed
+[11-46-20-462872]  36: secret_gesture - if nr 1 passed
+[11-46-20-462872]  37: peace - if nr 1 passed
+[11-46-20-462872]  38: peace - if nr 2 passed
+[11-46-20-462872]  39: peace - if nr 3 passed
+[11-46-20-462872]  40: peace - if nr 4 passed
+[11-46-21-111673]  41: secret_gesture - if nr 1 passed
+[11-46-21-111673]  42: peace - if nr 1 passed
+[11-46-21-111673]  43: peace - if nr 2 passed
+[11-46-21-111673]  44: peace - if nr 3 passed
+[11-46-21-111673]  45: peace - if nr 4 passed
+[11-46-21-111673]  46: empty - if nr 1 passed
+[11-46-21-766898]  47: secret_gesture - if nr 1 passed
+[11-46-21-766898]  48: peace - if nr 1 passed
+[11-46-21-766898]  49: peace - if nr 2 passed
+[11-46-21-766898]  50: peace - if nr 3 passed
+[11-46-21-766898]  51: peace - if nr 4 passed
+[11-46-21-766898]  52: empty - if nr 1 passed
+[11-46-22-415664]  53: secret_gesture - if nr 1 passed
+[11-46-22-415664]  54: peace - if nr 1 passed
+[11-46-22-431248]  55: peace - if nr 2 passed
+[11-46-22-431248]  56: peace - if nr 3 passed
+[11-46-22-431248]  57: peace - if nr 4 passed
+[11-46-22-431248]  58: empty - if nr 1 passed
+[11-46-23-86726]  59: secret_gesture - if nr 1 passed
+[11-46-23-86726]  60: peace - if nr 1 passed
+[11-46-23-86726]  61: peace - if nr 2 passed
+[11-46-23-86726]  62: peace - if nr 3 passed
+[11-46-23-86726]  63: peace - if nr 4 passed
+[11-46-23-788917]  64: secret_gesture - if nr 1 passed
+[11-46-23-788917]  65: peace - if nr 1 passed
+[11-46-23-788917]  66: peace - if nr 2 passed
+[11-46-23-788917]  67: peace - if nr 3 passed
+[11-46-23-788917]  68: peace - if nr 4 passed
+[11-46-23-804501]  69: empty - if nr 1 passed
+[11-46-24-506848]  70: secret_gesture - if nr 1 passed
+[11-46-24-506848]  71: peace - if nr 1 passed
+[11-46-24-506848]  72: peace - if nr 2 passed
+[11-46-24-506848]  73: peace - if nr 3 passed
+[11-46-24-506848]  74: peace - if nr 4 passed
+[11-46-24-506848]  75: empty - if nr 1 passed
+[11-46-25-177809]  76: secret_gesture - if nr 1 passed
+[11-46-25-177809]  77: peace - if nr 1 passed
+[11-46-25-177809]  78: peace - if nr 2 passed
+[11-46-25-177809]  79: peace - if nr 3 passed
+[11-46-25-177809]  80: peace - if nr 4 passed
+[11-46-25-177809]  81: empty - if nr 1 passed
+[11-46-26-42949]  82: secret_gesture - if nr 1 passed
+[11-46-26-42949]  83: peace - if nr 1 passed
+[11-46-26-42949]  84: peace - if nr 2 passed
+[11-46-26-42949]  85: peace - if nr 3 passed
+[11-46-26-42949]  86: peace - if nr 4 passed
+[11-46-26-42949]  87: empty - if nr 1 passed
+[11-46-26-883262]  88: secret_gesture - if nr 1 passed
+[11-46-26-883262]  89: peace - if nr 1 passed
+[11-46-26-883262]  90: peace - if nr 2 passed
+[11-46-26-883262]  91: peace - if nr 3 passed
+[11-46-26-883262]  92: peace - if nr 4 passed
+[11-46-26-883262]  93: empty - if nr 1 passed
+[11-46-27-717188]  94: secret_gesture - if nr 1 passed
+[11-46-27-717188]  95: peace - if nr 1 passed
+[11-46-27-717188]  96: peace - if nr 2 passed
+[11-46-27-717188]  97: peace - if nr 3 passed
+[11-46-27-732769]  98: peace - if nr 4 passed
+[11-46-27-732769]  99: empty - if nr 1 passed
+[11-46-27-732769]  100: fist - if nr 1 passed
+[11-46-27-732769]  101: fist - if nr 2 passed
+[11-46-28-381535]  102: secret_gesture - if nr 1 passed
+[11-46-28-381535]  103: peace - if nr 1 passed
+[11-46-28-381535]  104: peace - if nr 2 passed
+[11-46-28-381535]  105: peace - if nr 3 passed
+[11-46-28-381535]  106: peace - if nr 4 passed
+[11-46-28-381535]  107: empty - if nr 1 passed
+[11-46-29-670208]  108: secret_gesture - if nr 1 passed
+[11-46-29-670208]  109: peace - if nr 1 passed
+[11-46-29-670208]  110: peace - if nr 2 passed
+[11-46-29-670208]  111: peace - if nr 3 passed
+[11-46-29-670208]  112: peace - if nr 4 passed
+[11-46-30-510376]  113: secret_gesture - if nr 1 passed
+[11-46-30-510376]  114: peace - if nr 1 passed
+[11-46-30-510376]  115: peace - if nr 2 passed
+[11-46-30-510376]  116: peace - if nr 3 passed
+[11-46-30-510376]  117: peace - if nr 4 passed
+[11-46-31-359864]  118: empty - if nr 1 passed
+[11-46-40-620587]  119: fist - if nr 1 passed
+[11-46-40-620587]  120: fist - if nr 2 passed
+[11-46-42-896552]  121: empty - if nr 1 passed
+[11-46-47-425737]  122: fist - if nr 1 passed
+[11-46-47-425737]  123: fist - if nr 2 passed
+[11-46-48-65532]  124: okay - if nr 1 passed
+[11-46-48-65532]  125: okay - if nr 2 passed
+[11-46-48-65532]  126: okay - if nr 3 passed
+[11-46-48-65532]  127: okay - if nr 4 passed
+[11-46-48-65532]  128: fist - if nr 1 passed
+[11-46-48-65532]  129: fist - if nr 2 passed
+----------------------------
+2020-11-20 11:51:26.610501
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[11-51-26-610501]  1: empty - if nr 1 passed
+[11-51-26-610501]  2: empty - if nr 2 passed
+[11-51-26-610501]  3: empty - if nr 3 passed
+[11-51-26-612554]  4: empty - if nr 4 passed
+[11-51-26-612554]  5: empty = if nr 5 passed
+[11-51-26-612554]  6: Empty
+[11-51-26-612554]  7: Scroll Up - if nr 1 passed
+[11-51-26-612554]  8: Scroll Up - if nr 2 passed
+[11-51-26-612554]  9: Scroll Up - if nr 3 passed
+[11-51-26-612554]  10: Scroll Up - if nr 4 passed
+[11-51-26-612554]  11: Scroll Up - if nr 5 passed
+[11-51-26-612554]  12: fist - if nr 1 passed
+[11-51-26-612554]  13: fist - if nr 2 passed
+[11-51-26-612554]  14: fist - if nr 3 passed
+[11-51-26-612554]  15: fist - if nr 4 passed
+[11-51-32-464358]  16: secret_gesture - if nr 1 passed
+[11-51-32-464358]  17: secret_gesture - if nr 2 passed
+[11-51-32-464358]  18: secret_gesture - if nr 3 passed
+[11-51-32-464358]  19: secret_gesture - if nr 4 passed
+[11-51-32-464358]  20: Secret_gesture - if nr 5 passed
+[11-51-32-464358]  21: Secret_gesture
+[11-51-32-464358]  22: peace - if nr 1 passed
+[11-51-32-464358]  23: peace - if nr 2 passed
+[11-51-32-464358]  24: peace - if nr 3 passed
+[11-51-32-464358]  25: peace - if nr 4 passed
+[11-51-32-464358]  26: peace - if nr 5 passed
+[11-51-32-464358]  27: peace - if nr 6 passed
+[11-51-32-464358]  28: Peace
+[11-51-33-514348]  29: empty - if nr 1 passed
+[11-51-33-514348]  30: empty - if nr 2 passed
+[11-51-33-514348]  31: empty - if nr 3 passed
+[11-51-33-514348]  32: empty - if nr 4 passed
+[11-51-33-514348]  33: empty = if nr 5 passed
+[11-51-33-514348]  34: Empty
+[11-51-42-759015]  35: swipe left - if nr 1 passed
+[11-51-42-774601]  36: swipe left - if nr 2 passed
+[11-51-42-774601]  37: swipe left - if nr 3 passed
+[11-51-42-774601]  38: swipe left - if nr 4 passed
+[11-51-42-774601]  39: swipe left - if nr 5 passed
+[11-51-42-774601]  40: swipe left - if nr 6 passed
+[11-51-42-774601]  41: Swipe left
+[11-51-53-979032]  42: empty - if nr 1 passed
+[11-51-53-979032]  43: empty - if nr 2 passed
+[11-51-53-979032]  44: empty - if nr 3 passed
+[11-51-53-979032]  45: empty - if nr 4 passed
+[11-51-53-979032]  46: empty = if nr 5 passed
+[11-51-53-979032]  47: Empty
+[11-52-7-890413]  48: swipe left - if nr 1 passed
+[11-52-7-890413]  49: swipe left - if nr 2 passed
+[11-52-7-890413]  50: swipe left - if nr 3 passed
+[11-52-7-890413]  51: swipe left - if nr 4 passed
+[11-52-7-890413]  52: swipe left - if nr 5 passed
+[11-52-7-890413]  53: swipe left - if nr 6 passed
+[11-52-7-890413]  54: Swipe left
+[11-52-12-751942]  55: empty - if nr 1 passed
+[11-52-12-751942]  56: empty - if nr 2 passed
+[11-52-12-751942]  57: empty - if nr 3 passed
+[11-52-12-751942]  58: empty - if nr 4 passed
+[11-52-14-996296]  59: empty - if nr 1 passed
+[11-52-15-11977]  60: empty - if nr 2 passed
+[11-52-15-11977]  61: empty - if nr 3 passed
+[11-52-15-11977]  62: empty - if nr 4 passed
+[11-52-17-682562]  63: empty - if nr 1 passed
+[11-52-17-689110]  64: empty - if nr 2 passed
+[11-52-17-689110]  65: empty - if nr 3 passed
+[11-52-17-689110]  66: empty - if nr 4 passed
+[11-52-17-689110]  67: empty = if nr 5 passed
+[11-52-17-689110]  68: Empty
+[11-52-24-473022]  69: secret_gesture - if nr 1 passed
+[11-52-24-473022]  70: secret_gesture - if nr 2 passed
+[11-52-24-473022]  71: secret_gesture - if nr 3 passed
+[11-52-24-473022]  72: secret_gesture - if nr 4 passed
+[11-52-24-473022]  73: peace - if nr 1 passed
+[11-52-24-473022]  74: peace - if nr 2 passed
+[11-52-24-473022]  75: peace - if nr 3 passed
+[11-52-24-473022]  76: peace - if nr 4 passed
+[11-52-24-473022]  77: peace - if nr 5 passed
+[11-52-24-473022]  78: peace - if nr 6 passed
+[11-52-24-488607]  79: Peace
+[11-52-27-635686]  80: empty - if nr 1 passed
+[11-52-27-635686]  81: empty - if nr 2 passed
+[11-52-27-635686]  82: empty - if nr 3 passed
+[11-52-27-635686]  83: empty - if nr 4 passed
+[11-52-27-635686]  84: empty = if nr 5 passed
+[11-52-27-635686]  85: Empty
+[11-52-33-854965]  86: swipe right - if nr 1 passed
+[11-52-33-854965]  87: swipe right - if nr 2 passed
+[11-52-33-854965]  88: swipe right - if nr 3 passed
+[11-52-33-854965]  89: swipe right - if nr 4 passed
+[11-52-33-854965]  90: swipe right - if nr 5 passed
+[11-52-33-854965]  91: swipe right - if nr 6 passed
+[11-52-33-854965]  92: Swipe right
+[11-52-33-854965]  93: fist - if nr 1 passed
+[11-52-33-854965]  94: fist - if nr 2 passed
+[11-52-33-854965]  95: empty - if nr 1 passed
+[11-52-33-854965]  96: empty - if nr 2 passed
+[11-52-33-854965]  97: empty - if nr 3 passed
+[11-52-33-854965]  98: empty - if nr 4 passed
+[11-52-34-503709]  99: empty - if nr 1 passed
+[11-52-34-503709]  100: empty - if nr 2 passed
+[11-52-34-503709]  101: empty - if nr 3 passed
+[11-52-34-503709]  102: empty - if nr 4 passed
+[11-52-35-143282]  103: empty - if nr 1 passed
+[11-52-35-143282]  104: empty - if nr 2 passed
+[11-52-35-143282]  105: empty - if nr 3 passed
+[11-52-35-143282]  106: empty - if nr 4 passed
+[11-52-35-776492]  107: empty - if nr 1 passed
+[11-52-35-776492]  108: empty - if nr 2 passed
+[11-52-35-776492]  109: empty - if nr 3 passed
+[11-52-35-776492]  110: empty - if nr 4 passed
+[11-52-35-776492]  111: empty = if nr 5 passed
+[11-52-35-776492]  112: Empty
+[11-52-46-256708]  113: swipe left - if nr 1 passed
+[11-52-46-256708]  114: secret_gesture - if nr 1 passed
+[11-52-46-256708]  115: peace - if nr 1 passed
+[11-52-46-256708]  116: peace - if nr 2 passed
+[11-52-46-256708]  117: peace - if nr 3 passed
+[11-52-46-256708]  118: peace - if nr 4 passed
+[11-52-46-256708]  119: peace - if nr 5 passed
+[11-52-46-256708]  120: peace - if nr 6 passed
+[11-52-46-256708]  121: Peace
+[11-52-48-764819]  122: empty - if nr 1 passed
+[11-52-48-764819]  123: empty - if nr 2 passed
+[11-52-48-764819]  124: empty - if nr 3 passed
+[11-52-48-764819]  125: empty - if nr 4 passed
+[11-52-48-764819]  126: empty = if nr 5 passed
+[11-52-48-764819]  127: Empty
+[11-53-2-574002]  128: fist - if nr 1 passed
+[11-53-2-574002]  129: fist - if nr 2 passed
+[11-53-4-326014]  130: okay - if nr 1 passed
+[11-53-4-332526]  131: okay - if nr 2 passed
+[11-53-4-332526]  132: okay - if nr 3 passed
+[11-53-4-332526]  133: okay - if nr 4 passed
+[11-53-4-332526]  134: okay - if nr 5 passed
+[11-53-4-332526]  135: okay - if nr 6 passed
+[11-53-4-332526]  136: Okay
+[11-53-4-332526]  137: fist - if nr 1 passed
+[11-53-4-332526]  138: fist - if nr 2 passed
+[11-53-9-225832]  139: empty - if nr 1 passed
+[11-53-9-225832]  140: empty - if nr 2 passed
+[11-53-9-225832]  141: empty - if nr 3 passed
+[11-53-9-225832]  142: empty - if nr 4 passed
+[11-53-9-225832]  143: empty = if nr 5 passed
+[11-53-9-225832]  144: Empty
+[11-53-21-788246]  145: fist - if nr 1 passed
+[11-53-21-803913]  146: fist - if nr 2 passed
+[11-53-23-38809]  147: fist - if nr 1 passed
+[11-53-23-38809]  148: fist - if nr 2 passed
+[11-53-24-296083]  149: okay - if nr 1 passed
+[11-53-24-296083]  150: fist - if nr 1 passed
+[11-53-24-296083]  151: fist - if nr 2 passed
+[11-53-25-546710]  152: okay - if nr 1 passed
+[11-53-25-546710]  153: okay - if nr 2 passed
+[11-53-25-546710]  154: okay - if nr 3 passed
+[11-53-25-546710]  155: okay - if nr 4 passed
+[11-53-25-546710]  156: okay - if nr 5 passed
+[11-53-25-546710]  157: okay - if nr 6 passed
+[11-53-25-546710]  158: Okay
+[11-53-25-562330]  159: fist - if nr 1 passed
+[11-53-25-562330]  160: fist - if nr 2 passed
+[11-53-34-189511]  161: empty - if nr 1 passed
+[11-53-34-189511]  162: empty - if nr 2 passed
+[11-53-34-189511]  163: empty - if nr 3 passed
+[11-53-34-189511]  164: empty - if nr 4 passed
+[11-53-36-735084]  165: empty - if nr 1 passed
+[11-53-36-735084]  166: empty - if nr 2 passed
+[11-53-36-735084]  167: empty - if nr 3 passed
+[11-53-36-735084]  168: empty - if nr 4 passed
+[11-53-40-493842]  169: empty - if nr 1 passed
+[11-53-40-493842]  170: empty - if nr 2 passed
+[11-53-40-493842]  171: empty - if nr 3 passed
+[11-53-40-493842]  172: empty - if nr 4 passed
+[11-53-40-493842]  173: empty = if nr 5 passed
+[11-53-40-493842]  174: Empty
+[11-53-40-493842]  175: fist - if nr 1 passed
+[11-53-40-493842]  176: fist - if nr 2 passed
+[11-53-40-493842]  177: fist - if nr 3 passed
+[11-53-40-493842]  178: fist - if nr 4 passed
+[11-53-55-270776]  179: fist - if nr 1 passed
+[11-53-55-270776]  180: fist - if nr 2 passed
+[11-53-55-270776]  181: fist - if nr 3 passed
+[11-53-55-270776]  182: fist - if nr 4 passed
+[11-53-56-512539]  183: fist - if nr 1 passed
+[11-53-56-512539]  184: fist - if nr 2 passed
+[11-53-56-512539]  185: fist - if nr 3 passed
+[11-53-56-512539]  186: fist - if nr 4 passed
+[11-53-57-747495]  187: fist - if nr 1 passed
+[11-53-57-747495]  188: fist - if nr 2 passed
+[11-53-57-747495]  189: fist - if nr 3 passed
+[11-53-57-747495]  190: fist - if nr 4 passed
+[11-53-59-20305]  191: fist - if nr 1 passed
+[11-53-59-20305]  192: fist - if nr 2 passed
+[11-53-59-20305]  193: fist - if nr 3 passed
+[11-53-59-20305]  194: fist - if nr 4 passed
+[11-54-2-346043]  195: swipe right - if nr 1 passed
+[11-54-2-346043]  196: swipe right - if nr 2 passed
+[11-54-2-346043]  197: swipe right - if nr 3 passed
+[11-54-2-346043]  198: halt - if nr 1 passed
+[11-54-2-346043]  199: halt - if nr 2 passed
+[11-54-2-346043]  200: halt - if nr 3 passed
+[11-54-3-611266]  201: swipe right - if nr 1 passed
+[11-54-3-611266]  202: swipe right - if nr 2 passed
+[11-54-3-611266]  203: swipe right - if nr 3 passed
+[11-54-4-852826]  204: swipe left - if nr 1 passed
+[11-54-4-852826]  205: Scroll Up - if nr 1 passed
+[11-54-4-852826]  206: Scroll Up - if nr 2 passed
+[11-54-4-868447]  207: Scroll Up - if nr 3 passed
+[11-54-4-868447]  208: Scroll Up - if nr 4 passed
+[11-54-6-125732]  209: halt - if nr 1 passed
+[11-54-6-125732]  210: halt - if nr 2 passed
+[11-54-6-125732]  211: halt - if nr 3 passed
+[11-54-8-610863]  212: swipe left - if nr 1 passed
+[11-54-8-610863]  213: swipe left - if nr 2 passed
+[11-54-8-610863]  214: swipe left - if nr 3 passed
+[11-54-8-610863]  215: swipe left - if nr 4 passed
+[11-54-8-610863]  216: swipe left - if nr 5 passed
+[11-54-8-610863]  217: swipe left - if nr 6 passed
+[11-54-8-610863]  218: Swipe left
+[11-54-8-610863]  219: secret_gesture - if nr 1 passed
+[11-54-8-610863]  220: peace - if nr 1 passed
+[11-54-8-610863]  221: peace - if nr 2 passed
+[11-54-8-610863]  222: peace - if nr 3 passed
+[11-54-8-610863]  223: peace - if nr 4 passed
+[11-54-12-391485]  224: empty - if nr 1 passed
+[11-54-12-391485]  225: empty - if nr 2 passed
+[11-54-12-391485]  226: empty - if nr 3 passed
+[11-54-12-391485]  227: empty - if nr 4 passed
+[11-54-12-391485]  228: empty = if nr 5 passed
+[11-54-12-391485]  229: Empty
+[11-54-19-213418]  230: fist - if nr 1 passed
+[11-54-19-213418]  231: fist - if nr 2 passed
+[11-54-19-213418]  232: fist - if nr 3 passed
+[11-54-19-213418]  233: fist - if nr 4 passed
+[11-54-19-846674]  234: fist - if nr 1 passed
+[11-54-19-846674]  235: fist - if nr 2 passed
+[11-54-19-846674]  236: fist - if nr 3 passed
+[11-54-19-846674]  237: fist - if nr 4 passed
+[11-54-20-470718]  238: fist - if nr 1 passed
+[11-54-20-470718]  239: fist - if nr 2 passed
+[11-54-20-470718]  240: fist - if nr 3 passed
+[11-54-20-470718]  241: fist - if nr 4 passed
+[11-54-21-103811]  242: fist - if nr 1 passed
+[11-54-21-103811]  243: fist - if nr 2 passed
+[11-54-21-103811]  244: fist - if nr 3 passed
+[11-54-21-103811]  245: fist - if nr 4 passed
+[11-54-21-736945]  246: fist - if nr 1 passed
+[11-54-21-736945]  247: fist - if nr 2 passed
+[11-54-21-736945]  248: fist - if nr 3 passed
+[11-54-21-736945]  249: fist - if nr 4 passed
+[11-54-22-354469]  250: Scroll Up - if nr 1 passed
+[11-54-22-354469]  251: Scroll Up - if nr 2 passed
+[11-54-22-354469]  252: Scroll Up - if nr 3 passed
+[11-54-22-354469]  253: Scroll Up - if nr 4 passed
+[11-54-22-354469]  254: Scroll Up - if nr 5 passed
+[11-54-22-354469]  255: Scroll Up - if nr 6 passed
+[11-54-22-354469]  256: Scroll Up - if nr 7 passed
+[11-54-22-354469]  257: Scroll Up
+[11-54-22-354469]  258: fist - if nr 1 passed
+[11-54-22-354469]  259: fist - if nr 2 passed
+[11-54-22-354469]  260: fist - if nr 3 passed
+[11-54-22-354469]  261: fist - if nr 4 passed
+[11-54-22-354469]  262: empty - if nr 1 passed
+[11-54-22-354469]  263: empty - if nr 2 passed
+[11-54-22-354469]  264: empty - if nr 3 passed
+[11-54-22-354469]  265: empty - if nr 4 passed
+[11-54-22-354469]  266: empty = if nr 5 passed
+[11-54-22-354469]  267: Empty
+[11-54-28-943477]  268: halt - if nr 1 passed
+[11-54-28-943477]  269: halt - if nr 2 passed
+[11-54-28-943477]  270: halt - if nr 3 passed
+[11-54-29-576708]  271: swipe right - if nr 1 passed
+[11-54-29-576708]  272: swipe right - if nr 2 passed
+[11-54-29-576708]  273: swipe right - if nr 3 passed
+[11-54-29-576708]  274: swipe right - if nr 4 passed
+[11-54-29-576708]  275: swipe right - if nr 5 passed
+[11-54-29-576708]  276: swipe right - if nr 6 passed
+[11-54-29-576708]  277: Swipe right
+[11-54-35-796224]  278: okay - if nr 1 passed
+[11-54-35-796224]  279: okay - if nr 2 passed
+[11-54-35-796224]  280: okay - if nr 3 passed
+[11-54-35-796224]  281: okay - if nr 4 passed
+[11-54-35-796224]  282: okay - if nr 5 passed
+[11-54-35-796224]  283: okay - if nr 6 passed
+[11-54-35-796224]  284: Okay
+[11-54-35-796224]  285: fist - if nr 1 passed
+[11-54-35-811850]  286: fist - if nr 2 passed
+[11-54-42-31638]  287: fist - if nr 1 passed
+[11-54-42-31638]  288: fist - if nr 2 passed
+[11-54-42-655705]  289: fist - if nr 1 passed
+[11-54-42-655705]  290: fist - if nr 2 passed
+[11-54-43-273177]  291: fist - if nr 1 passed
+[11-54-43-273177]  292: fist - if nr 2 passed
+[11-54-43-890783]  293: fist - if nr 1 passed
+[11-54-43-890783]  294: fist - if nr 2 passed
+[11-54-44-523991]  295: fist - if nr 1 passed
+[11-54-44-523991]  296: fist - if nr 2 passed
+[11-54-45-148074]  297: fist - if nr 1 passed
+[11-54-45-148074]  298: fist - if nr 2 passed
+[11-54-45-765683]  299: fist - if nr 1 passed
+[11-54-45-765683]  300: fist - if nr 2 passed
+[11-54-46-398858]  301: fist - if nr 1 passed
+[11-54-46-398858]  302: fist - if nr 2 passed
+[11-54-47-32047]  303: fist - if nr 1 passed
+[11-54-47-32047]  304: fist - if nr 2 passed
+[11-54-47-649444]  305: fist - if nr 1 passed
+[11-54-47-649444]  306: fist - if nr 2 passed
+[11-54-48-273390]  307: fist - if nr 1 passed
+[11-54-48-273390]  308: fist - if nr 2 passed
+[11-54-50-743312]  309: empty - if nr 1 passed
+[11-54-50-758893]  310: empty - if nr 2 passed
+[11-54-50-758893]  311: empty - if nr 3 passed
+[11-54-50-758893]  312: fist - if nr 1 passed
+[11-54-50-758893]  313: empty - if nr 1 passed
+[11-54-50-758893]  314: empty - if nr 2 passed
+[11-54-50-758893]  315: empty - if nr 3 passed
+[11-54-53-273518]  316: empty - if nr 1 passed
+[11-54-53-273518]  317: empty - if nr 2 passed
+[11-54-53-273518]  318: empty - if nr 3 passed
+[11-54-53-273518]  319: fist - if nr 1 passed
+[11-54-53-273518]  320: empty - if nr 1 passed
+[11-54-53-273518]  321: empty - if nr 2 passed
+[11-54-53-273518]  322: empty - if nr 3 passed
+[11-54-55-157301]  323: empty - if nr 1 passed
+[11-54-55-157301]  324: empty - if nr 2 passed
+[11-54-55-157301]  325: empty - if nr 3 passed
+[11-54-55-157301]  326: empty - if nr 4 passed
+[11-54-55-157301]  327: empty = if nr 5 passed
+[11-54-55-157301]  328: Empty
+[11-54-55-157301]  329: Scroll Up - if nr 1 passed
+[11-54-55-157301]  330: Scroll Up - if nr 2 passed
+[11-54-55-157301]  331: Scroll Up - if nr 3 passed
+[11-54-55-157301]  332: Scroll Up - if nr 4 passed
+[11-54-55-157301]  333: Scroll Up - if nr 5 passed
+[11-54-55-157301]  334: Scroll Up - if nr 6 passed
+[11-54-55-157301]  335: Scroll Up - if nr 7 passed
+[11-54-55-157301]  336: Scroll Up
+[11-54-55-157301]  337: fist - if nr 1 passed
+[11-54-55-157301]  338: fist - if nr 2 passed
+[11-54-55-157301]  339: empty - if nr 1 passed
+[11-54-55-157301]  340: empty - if nr 2 passed
+[11-54-55-172892]  341: empty - if nr 3 passed
+[11-54-55-172892]  342: empty - if nr 4 passed
+[11-54-55-172892]  343: empty = if nr 5 passed
+[11-54-55-172892]  344: Empty
+[11-55-1-392462]  345: fist - if nr 1 passed
+[11-55-1-392462]  346: fist - if nr 2 passed
+[11-55-2-31993]  347: fist - if nr 1 passed
+[11-55-2-31993]  348: fist - if nr 2 passed
+[11-55-2-31993]  349: fist - if nr 3 passed
+[11-55-2-31993]  350: fist - if nr 4 passed
+[11-55-2-680841]  351: fist - if nr 1 passed
+[11-55-2-680841]  352: fist - if nr 2 passed
+[11-55-2-680841]  353: fist - if nr 3 passed
+[11-55-2-680841]  354: fist - if nr 4 passed
+[11-55-3-304941]  355: fist - if nr 1 passed
+[11-55-3-304941]  356: fist - if nr 2 passed
+[11-55-3-922533]  357: fist - if nr 1 passed
+[11-55-3-922533]  358: fist - if nr 2 passed
+[11-55-3-922533]  359: fist - if nr 3 passed
+[11-55-3-922533]  360: fist - if nr 4 passed
+[11-55-5-173118]  361: fist - if nr 1 passed
+[11-55-5-173118]  362: fist - if nr 2 passed
+[11-55-5-173118]  363: fist - if nr 3 passed
+[11-55-5-173118]  364: fist - if nr 4 passed
+[11-55-5-812901]  365: fist - if nr 1 passed
+[11-55-5-812901]  366: fist - if nr 2 passed
+[11-55-5-812901]  367: fist - if nr 3 passed
+[11-55-5-812901]  368: fist - if nr 4 passed
+[11-55-6-430387]  369: fist - if nr 1 passed
+[11-55-6-430387]  370: fist - if nr 2 passed
+[11-55-6-430387]  371: fist - if nr 3 passed
+[11-55-6-430387]  372: fist - if nr 4 passed
+[11-55-8-298667]  373: fist - if nr 1 passed
+[11-55-8-298667]  374: fist - if nr 2 passed
+[11-55-8-298667]  375: fist - if nr 3 passed
+[11-55-8-298667]  376: fist - if nr 4 passed
+[11-55-8-916320]  377: fist - if nr 1 passed
+[11-55-9-540466]  378: fist - if nr 1 passed
+[11-55-9-540466]  379: fist - if nr 2 passed
+[11-55-9-540466]  380: fist - if nr 3 passed
+[11-55-9-540466]  381: fist - if nr 4 passed
+[11-55-10-975666]  382: halt - if nr 1 passed
+[11-55-10-975666]  383: halt - if nr 2 passed
+[11-55-10-975666]  384: halt - if nr 3 passed
+[11-55-10-975666]  385: halt - if nr 4 passed
+[11-55-10-975666]  386: halt - if nr 5 passed
+[11-55-11-646549]  387: halt - if nr 1 passed
+[11-55-11-662172]  388: halt - if nr 2 passed
+[11-55-11-662172]  389: halt - if nr 3 passed
+[11-55-11-662172]  390: fist - if nr 1 passed
+[11-55-11-662172]  391: fist - if nr 2 passed
+----------------------------
+2020-11-20 12:02:11.388751
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[12-2-11-388751]  1: empty - if nr 1 passed
+[12-2-11-388751]  2: fist - if nr 1 passed
+[12-2-11-388751]  3: fist - if nr 2 passed
+[12-2-11-388751]  4: empty - if nr 1 passed
+[12-2-11-789928]  5: empty - if nr 1 passed
+[12-2-11-789928]  6: empty - if nr 2 passed
+[12-2-11-789928]  7: empty - if nr 3 passed
+[12-2-11-789928]  8: empty - if nr 4 passed
+[12-2-11-789928]  9: fist - if nr 1 passed
+[12-2-11-789928]  10: fist - if nr 2 passed
+[12-2-11-789928]  11: empty - if nr 1 passed
+[12-2-11-789928]  12: empty - if nr 2 passed
+[12-2-11-789928]  13: empty - if nr 3 passed
+[12-2-11-789928]  14: empty - if nr 4 passed
+[12-2-12-191182]  15: empty - if nr 1 passed
+[12-2-12-191182]  16: empty - if nr 2 passed
+[12-2-12-191182]  17: empty - if nr 3 passed
+[12-2-12-191182]  18: empty - if nr 4 passed
+[12-2-12-191182]  19: fist - if nr 1 passed
+[12-2-12-191182]  20: fist - if nr 2 passed
+[12-2-12-191182]  21: empty - if nr 1 passed
+[12-2-12-191182]  22: empty - if nr 2 passed
+[12-2-12-191182]  23: empty - if nr 3 passed
+[12-2-12-191182]  24: empty - if nr 4 passed
+[12-2-13-811639]  25: empty - if nr 1 passed
+[12-2-13-811639]  26: empty - if nr 2 passed
+[12-2-13-811639]  27: empty - if nr 3 passed
+[12-2-13-811639]  28: empty - if nr 4 passed
+[12-2-13-811639]  29: empty = if nr 5 passed
+[12-2-13-811639]  30: Empty
+[12-2-13-811639]  31: fist - if nr 1 passed
+[12-2-13-811639]  32: fist - if nr 2 passed
+[12-2-13-811639]  33: fist - if nr 3 passed
+[12-2-13-811639]  34: fist - if nr 4 passed
+[12-2-19-367243]  35: Scroll Up - if nr 1 passed
+[12-2-19-367243]  36: Scroll Up - if nr 2 passed
+[12-2-19-367243]  37: Scroll Up - if nr 3 passed
+[12-2-19-367243]  38: Scroll Up - if nr 4 passed
+[12-2-19-367243]  39: fist - if nr 1 passed
+[12-2-19-367243]  40: fist - if nr 2 passed
+[12-2-20-116239]  41: Scroll Up - if nr 1 passed
+[12-2-20-116239]  42: Scroll Up - if nr 2 passed
+[12-2-20-116239]  43: Scroll Up - if nr 3 passed
+[12-2-20-116239]  44: Scroll Up - if nr 4 passed
+[12-2-20-834029]  45: swipe left - if nr 1 passed
+[12-2-20-834029]  46: swipe left - if nr 2 passed
+[12-2-20-834029]  47: swipe left - if nr 3 passed
+[12-2-20-834029]  48: swipe left - if nr 4 passed
+[12-2-20-834029]  49: swipe left - if nr 5 passed
+[12-2-20-834029]  50: swipe left - if nr 6 passed
+[12-2-20-834029]  51: Swipe left
+[12-2-20-834029]  52: fist - if nr 1 passed
+[12-2-20-834029]  53: fist - if nr 2 passed
+[12-2-20-834029]  54: fist - if nr 3 passed
+[12-2-20-834029]  55: fist - if nr 4 passed
+[12-2-20-849655]  56: fist - if nr 5 passed
+[12-2-20-849655]  57: fist - if nr 6 passed
+[12-2-20-849655]  58: Fist
+[12-2-22-307589]  59: empty - if nr 1 passed
+[12-2-22-307589]  60: empty - if nr 2 passed
+[12-2-23-125714]  61: empty - if nr 1 passed
+[12-2-23-125714]  62: empty - if nr 2 passed
+[12-2-23-125714]  63: empty - if nr 3 passed
+[12-2-23-141347]  64: empty - if nr 4 passed
+[12-2-23-796733]  65: empty - if nr 1 passed
+[12-2-23-796733]  66: empty - if nr 2 passed
+[12-2-23-796733]  67: empty - if nr 3 passed
+[12-2-23-796733]  68: empty - if nr 4 passed
+[12-2-24-461213]  69: empty - if nr 1 passed
+[12-2-24-461213]  70: empty - if nr 2 passed
+[12-2-24-461213]  71: empty - if nr 3 passed
+[12-2-24-461213]  72: empty - if nr 4 passed
+[12-2-25-132234]  73: empty - if nr 1 passed
+[12-2-25-132234]  74: empty - if nr 2 passed
+[12-2-25-132234]  75: empty - if nr 3 passed
+[12-2-25-132234]  76: empty - if nr 4 passed
+[12-2-25-803297]  77: empty - if nr 1 passed
+[12-2-25-803297]  78: empty - if nr 2 passed
+[12-2-25-803297]  79: empty - if nr 3 passed
+[12-2-25-803297]  80: empty - if nr 4 passed
+[12-2-26-489852]  81: empty - if nr 1 passed
+[12-2-26-489852]  82: empty - if nr 2 passed
+[12-2-26-489852]  83: empty - if nr 3 passed
+[12-2-26-489852]  84: empty - if nr 4 passed
+[12-2-27-154232]  85: empty - if nr 1 passed
+[12-2-27-154232]  86: empty - if nr 2 passed
+[12-2-27-154232]  87: empty - if nr 3 passed
+[12-2-27-154232]  88: empty - if nr 4 passed
+[12-2-27-825072]  89: empty - if nr 1 passed
+[12-2-27-840713]  90: empty - if nr 2 passed
+[12-2-27-840713]  91: empty - if nr 3 passed
+[12-2-27-840713]  92: empty - if nr 4 passed
+[12-2-28-511789]  93: empty - if nr 1 passed
+[12-2-28-511789]  94: empty - if nr 2 passed
+[12-2-28-511789]  95: empty - if nr 3 passed
+[12-2-28-511789]  96: empty - if nr 4 passed
+[12-2-29-198360]  97: empty - if nr 1 passed
+[12-2-29-198360]  98: empty - if nr 2 passed
+[12-2-29-198360]  99: empty - if nr 3 passed
+[12-2-29-198360]  100: empty - if nr 4 passed
+[12-2-29-884856]  101: empty - if nr 1 passed
+[12-2-29-884856]  102: empty - if nr 2 passed
+[12-2-29-884856]  103: empty - if nr 3 passed
+[12-2-29-884856]  104: empty - if nr 4 passed
+[12-2-30-549275]  105: empty - if nr 1 passed
+[12-2-30-549275]  106: empty - if nr 2 passed
+[12-2-30-549275]  107: empty - if nr 3 passed
+[12-2-30-549275]  108: empty - if nr 4 passed
+[12-2-31-204790]  109: empty - if nr 1 passed
+[12-2-31-204790]  110: empty - if nr 2 passed
+[12-2-31-204790]  111: empty - if nr 3 passed
+[12-2-31-204790]  112: empty - if nr 4 passed
+[12-2-31-869173]  113: empty - if nr 1 passed
+[12-2-31-869173]  114: empty - if nr 2 passed
+[12-2-31-869173]  115: empty - if nr 3 passed
+[12-2-31-869173]  116: empty - if nr 4 passed
+[12-2-32-524622]  117: empty - if nr 1 passed
+[12-2-32-524622]  118: empty - if nr 2 passed
+[12-2-32-524622]  119: empty - if nr 3 passed
+[12-2-32-524622]  120: empty - if nr 4 passed
+[12-2-32-524622]  121: empty = if nr 5 passed
+[12-2-32-524622]  122: Empty
+----------------------------
+2020-11-20 15:46:23.184448
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[15-46-23-184448]  1: empty - if nr 1 passed
+[15-46-23-184448]  2: empty - if nr 2 passed
+[15-46-23-184448]  3: empty - if nr 3 passed
+[15-46-23-184448]  4: empty - if nr 4 passed
+[15-46-23-184448]  5: fist - if nr 1 passed
+[15-46-23-184448]  6: fist - if nr 2 passed
+[15-46-23-184448]  7: empty - if nr 1 passed
+[15-46-23-184448]  8: empty - if nr 2 passed
+[15-46-23-184448]  9: empty - if nr 3 passed
+[15-46-23-184448]  10: empty - if nr 4 passed
+[15-46-23-933652]  11: empty - if nr 1 passed
+[15-46-23-933652]  12: empty - if nr 2 passed
+[15-46-23-933652]  13: empty - if nr 3 passed
+[15-46-23-933652]  14: empty - if nr 4 passed
+[15-46-23-933652]  15: fist - if nr 1 passed
+[15-46-23-933652]  16: fist - if nr 2 passed
+[15-46-23-933652]  17: fist - if nr 3 passed
+[15-46-23-949229]  18: fist - if nr 4 passed
+[15-46-23-949229]  19: empty - if nr 1 passed
+[15-46-23-949229]  20: empty - if nr 2 passed
+[15-46-23-949229]  21: empty - if nr 3 passed
+[15-46-23-949229]  22: empty - if nr 4 passed
+[15-46-25-692666]  23: empty - if nr 1 passed
+[15-46-25-692666]  24: empty - if nr 2 passed
+[15-46-25-692666]  25: empty - if nr 3 passed
+[15-46-25-692666]  26: empty - if nr 4 passed
+[15-46-25-692666]  27: empty = if nr 5 passed
+[15-46-25-692666]  28: Empty
+[15-46-25-692666]  29: fist - if nr 1 passed
+[15-46-32-191325]  30: secret_gesture - if nr 1 passed
+[15-46-32-191325]  31: peace - if nr 1 passed
+[15-46-32-191325]  32: peace - if nr 2 passed
+[15-46-32-191325]  33: peace - if nr 3 passed
+[15-46-32-191325]  34: peace - if nr 4 passed
+[15-46-32-191325]  35: peace - if nr 5 passed
+[15-46-32-191325]  36: peace - if nr 6 passed
+[15-46-32-191325]  37: Peace
+----------------------------
+2020-12-01 21:58:27.340680
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[21-58-27-340680]  1: secret_gesture - if nr 1 passed
+[21-58-27-343973]  2: peace - if nr 1 passed
+[21-58-27-344978]  3: peace - if nr 2 passed
+[21-58-27-344978]  4: peace - if nr 3 passed
+[21-58-27-345978]  5: peace - if nr 4 passed
+[21-58-28-565820]  6: empty - if nr 1 passed
+[21-58-28-566819]  7: empty - if nr 2 passed
+[21-58-28-566819]  8: empty - if nr 3 passed
+[21-58-28-567819]  9: empty - if nr 4 passed
+[21-58-28-567819]  10: empty = if nr 5 passed
+[21-58-28-568820]  11: Empty
+[21-58-28-568820]  12: fist - if nr 1 passed
+[21-58-28-569819]  13: fist - if nr 2 passed
+[21-58-28-569819]  14: fist - if nr 3 passed
+[21-58-28-570820]  15: fist - if nr 4 passed
+[21-58-34-988506]  16: secret_gesture - if nr 1 passed
+[21-58-34-989472]  17: secret_gesture - if nr 2 passed
+[21-58-34-989472]  18: secret_gesture - if nr 3 passed
+[21-58-34-990470]  19: secret_gesture - if nr 4 passed
+[21-58-34-990470]  20: peace - if nr 1 passed
+[21-58-34-990470]  21: peace - if nr 2 passed
+[21-58-34-991469]  22: peace - if nr 3 passed
+[21-58-34-991469]  23: peace - if nr 4 passed
+[21-58-34-992471]  24: peace - if nr 5 passed
+[21-58-34-992471]  25: peace - if nr 6 passed
+[21-58-34-992471]  26: Peace
+[21-58-40-831945]  27: okay - if nr 1 passed
+[21-58-40-833905]  28: fist - if nr 1 passed
+[21-58-40-833905]  29: fist - if nr 2 passed
+[21-58-41-453945]  30: okay - if nr 1 passed
+[21-58-41-454905]  31: fist - if nr 1 passed
+[21-58-41-455949]  32: fist - if nr 2 passed
+[21-58-42-67570]  33: okay - if nr 1 passed
+[21-58-42-68571]  34: okay - if nr 2 passed
+[21-58-42-68571]  35: okay - if nr 3 passed
+[21-58-42-69536]  36: okay - if nr 4 passed
+[21-58-42-69536]  37: okay - if nr 5 passed
+[21-58-42-69536]  38: okay - if nr 6 passed
+[21-58-42-70532]  39: Okay
+[21-58-42-71570]  40: fist - if nr 1 passed
+[21-58-42-71570]  41: fist - if nr 2 passed
+[21-58-46-549799]  42: empty - if nr 1 passed
+[21-58-46-549799]  43: empty - if nr 2 passed
+[21-58-46-550770]  44: empty - if nr 3 passed
+[21-58-46-550770]  45: empty - if nr 4 passed
+[21-58-46-551758]  46: empty = if nr 5 passed
+[21-58-46-551758]  47: Empty
+[21-58-52-379781]  48: swipe left - if nr 1 passed
+[21-58-52-380783]  49: swipe left - if nr 2 passed
+[21-58-52-380783]  50: swipe left - if nr 3 passed
+[21-58-52-381784]  51: swipe left - if nr 4 passed
+[21-58-52-381784]  52: swipe left - if nr 5 passed
+[21-58-52-382780]  53: swipe left - if nr 6 passed
+[21-58-52-382780]  54: Swipe left
+[21-58-52-383780]  55: empty - if nr 1 passed
+[21-58-52-383780]  56: empty - if nr 2 passed
+[21-58-52-384796]  57: empty - if nr 3 passed
+[21-58-52-384796]  58: empty - if nr 4 passed
+[21-58-52-384796]  59: empty = if nr 5 passed
+[21-58-52-384796]  60: Empty
+[21-58-52-385780]  61: Scroll Down - if nr 1 passed
+[21-58-52-385780]  62: fist - if nr 1 passed
+[21-58-52-385780]  63: fist - if nr 2 passed
+[21-58-52-386780]  64: fist - if nr 3 passed
+[21-58-52-386780]  65: fist - if nr 4 passed
+[21-58-58-40588]  66: swipe left - if nr 1 passed
+[21-58-58-41552]  67: swipe left - if nr 2 passed
+[21-58-58-41552]  68: swipe left - if nr 3 passed
+[21-58-58-41552]  69: swipe left - if nr 4 passed
+[21-58-58-42554]  70: swipe left - if nr 5 passed
+[21-58-58-42554]  71: swipe left - if nr 6 passed
+[21-58-58-42554]  72: Swipe left
+[21-58-58-43550]  73: empty - if nr 1 passed
+[21-58-58-43550]  74: empty - if nr 2 passed
+[21-58-58-44564]  75: empty - if nr 3 passed
+[21-58-58-44564]  76: empty - if nr 4 passed
+[21-58-58-44564]  77: empty = if nr 5 passed
+[21-58-58-45587]  78: Empty
+[21-58-58-45587]  79: fist - if nr 1 passed
+[21-58-58-45587]  80: fist - if nr 2 passed
+[21-58-58-46589]  81: fist - if nr 3 passed
+[21-58-58-46589]  82: fist - if nr 4 passed
+[21-59-4-254606]  83: swipe right - if nr 1 passed
+[21-59-4-254606]  84: swipe right - if nr 2 passed
+[21-59-4-255614]  85: swipe right - if nr 3 passed
+[21-59-4-255614]  86: halt - if nr 1 passed
+[21-59-4-255614]  87: halt - if nr 2 passed
+[21-59-4-256568]  88: halt - if nr 3 passed
+[21-59-4-257608]  89: swipe right - if nr 1 passed
+[21-59-4-258597]  90: swipe right - if nr 2 passed
+[21-59-4-258597]  91: swipe right - if nr 3 passed
+[21-59-4-258597]  92: swipe right - if nr 4 passed
+[21-59-4-259568]  93: swipe right - if nr 5 passed
+[21-59-4-259568]  94: swipe right - if nr 6 passed
+[21-59-4-259568]  95: Swipe right
+[21-59-4-260570]  96: empty - if nr 1 passed
+[21-59-4-260570]  97: empty - if nr 2 passed
+[21-59-4-261599]  98: empty - if nr 3 passed
+[21-59-4-261599]  99: empty - if nr 4 passed
+[21-59-4-261599]  100: empty = if nr 5 passed
+[21-59-4-262568]  101: Empty
+[21-59-4-262568]  102: fist - if nr 1 passed
+[21-59-4-262568]  103: fist - if nr 2 passed
+----------------------------
+2022-02-28 11:37:41.095989
+Resolution: 800 x 450
+FPS: 60
+Codec: huj
+----------------------------
+[11-37-41-95989]  1: fist - if nr 1 passed
+[11-37-41-95989]  2: fist - if nr 2 passed
+[11-37-44-737285]  3: empty - if nr 1 passed
+[11-37-44-737285]  4: empty - if nr 2 passed
+[11-37-44-752894]  5: empty - if nr 3 passed
+[11-37-44-752894]  6: empty - if nr 4 passed
+[11-37-44-752894]  7: empty = if nr 5 passed
+[11-37-44-752894]  8: Empty
